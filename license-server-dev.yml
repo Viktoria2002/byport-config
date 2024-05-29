@@ -7,7 +7,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/license_server
     username: byport
-    password: Vq2$CIhw1C0}W42
+    password: "{cipher}438eeb063f49c513945fe5da00b933e916e492a929e10497daf2227a2d77a78d"
     driverClassName: org.postgresql.Driver
   jpa:
     show-sql: true
