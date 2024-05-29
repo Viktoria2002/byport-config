@@ -18,8 +18,11 @@ spring:
         dialect: org.hibernate.dialect.PostgreSQLDialect
         format_sql: true
 
-spring doc:
+springdoc:
   api-docs:
     path: /api-docs
 
 logging.level.org.springframework.security: DEBUG
+
+license-server:
+  message: "Welcome to license-server: init"
