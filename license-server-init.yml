@@ -25,4 +25,4 @@ springdoc:
 logging.level.org.springframework.security: DEBUG
 
 license-server:
-  message: "Welcome to license-server: init25"
+  message: "Welcome to license-server: init27"
